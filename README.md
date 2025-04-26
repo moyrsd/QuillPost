@@ -25,7 +25,7 @@ QuillPost is an AI-powered social media automation tool that transforms long-for
   - Custom post templates
   - Visual preview editor 🎨
  
-  ## Supported Formats 📄
+## Supported Formats 📄
 | Input Type       | Supported Features          |
 |-------------------|-----------------------------|
 | PDF Documents     | Text extraction, OCR        |
